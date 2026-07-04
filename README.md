@@ -1,5 +1,3 @@
-# UVM-Based-Functional-Verification-of-Synchronous-FIFO
-
 # UVM-Based Functional Verification of Synchronous FIFO
 A complete UVM (Universal Verification Methodology) testbench 
 environment for verifying a parameterized synchronous FIFO design, 
